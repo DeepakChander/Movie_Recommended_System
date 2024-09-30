@@ -8,9 +8,15 @@ This project is designed to help users discover movies they’ll love! Using a c
 Here’s a breakdown of the key features:
 
 🔍 Advanced Algorithms: Employs both collaborative filtering (based on similar users) and content-based filtering (based on movie features like genres).
+
 📊 Machine Learning: Trained using popular libraries in Python such as Pandas, Scikit-Learn, and Surprise.
+
 🎛️ Interactive UI: Deployed with Streamlit, offering a simple and interactive user interface where users can get movie recommendations in real-time.
+
 📈 Data-Driven: Uses a rich dataset of movies, ratings, and genres to predict movie preferences with high accuracy.
+
 🌐 Web App: Fully functional web application that can be easily accessed, making it perfect for testing and expanding!
+
 💻 Tech Stack: Python, Pandas, Scikit-Learn, Streamlit, Surprise
+
 🔗 Next Steps: Future improvements will include integrating more data sources, user-based feedback, and adding features like real-time movie recommendations based on trending titles.
